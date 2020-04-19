@@ -1,4 +1,4 @@
-package net.bis5.gitlab;
+package net.bis5.gitlab.tomcat;
 
 import javax.annotation.PostConstruct;
 import javax.annotation.PreDestroy;
