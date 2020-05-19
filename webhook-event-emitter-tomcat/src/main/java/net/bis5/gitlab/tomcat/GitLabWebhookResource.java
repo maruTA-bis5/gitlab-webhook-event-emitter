@@ -11,6 +11,7 @@ import javax.ws.rs.Path;
 import javax.ws.rs.core.Context;
 import javax.ws.rs.core.MediaType;
 import javax.ws.rs.core.Response;
+import net.bis5.gitlab.CdiEventEmitter;
 import org.gitlab4j.api.GitLabApiException;
 import org.gitlab4j.api.webhook.WebHookManager;
 
