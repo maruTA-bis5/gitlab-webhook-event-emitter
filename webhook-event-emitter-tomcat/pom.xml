@@ -6,6 +6,9 @@
     <artifactId>gitlab-webhook-event-emitter-tomcat</artifactId>
     <version>0.1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
+	<name>GitLab Webhook Event Emitter::Embed Tomcat App</name>
+	<url>https://github.com/maruTA-bis5/gitlab-webhook-event-emitter</url>
+	<description>gitlab webhook event emitter with tomcat sample app</description>
 	<licenses>
 		<license>
 			<name>MIT License</name>

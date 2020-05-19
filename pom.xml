@@ -5,6 +5,9 @@
     <artifactId>gitlab-webhook-event-emitter</artifactId>
     <version>0.1.1-SNAPSHOT</version>
     <packaging>jar</packaging>
+	<name>GitLab Webhook Event Emitter</name>
+	<url>https://github.com/maruTA-bis5/gitlab-webhook-event-emitter</url>
+	<description>GitLab's webhook event emitter as CDI event</description>
 	<licenses>
 		<license>
 			<name>MIT License</name>
