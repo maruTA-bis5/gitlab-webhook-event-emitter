@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
-        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>net.bis5.gitlab</groupId>
     <artifactId>gitlab-webhook-event-emitter-tomcat</artifactId>
-    <version>0.1.1-SNAPSHOT</version>
+    <version>0.1.1</version>
     <packaging>jar</packaging>
 	<name>GitLab Webhook Event Emitter::Embed Tomcat App</name>
 	<url>https://github.com/maruTA-bis5/gitlab-webhook-event-emitter</url>
@@ -20,7 +19,7 @@
 		<url>https://github.com/maruTA-bis5/gitlab-webhook-event-emitter.git</url>
 		<connection>scm:git:git://github.com/maruTA-bis5/gitlab-webhook-event-emitter.git</connection>
 		<developerConnection>scm:git:git@github.com:maruTA-bis5/gitlab-webhook-event-emitter.git</developerConnection>
-		<tag>HEAD</tag>
+		<tag>webhook-event-emitter-tomcat-v0.1.1</tag>
 	</scm>
 	<developers>
 		<developer>
@@ -54,7 +53,7 @@
         <dependency>
             <groupId>net.bis5.gitlab</groupId>
             <artifactId>gitlab-webhook-event-emitter</artifactId>
-            <version>${project.version}</version>
+            <version>0.1.1</version>
         </dependency>
         <dependency>
             <groupId>jakarta.enterprise</groupId>
