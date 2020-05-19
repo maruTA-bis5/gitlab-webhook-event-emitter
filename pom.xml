@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>net.bis5.gitlab</groupId>
     <artifactId>gitlab-webhook-event-emitter</artifactId>
-    <version>0.1.0</version>
+    <version>0.1.1-SNAPSHOT</version>
     <packaging>jar</packaging>
 	<licenses>
 		<license>
@@ -16,7 +16,7 @@
 		<url>https://github.com/maruTA-bis5/gitlab-webhook-event-emitter.git</url>
 		<connection>scm:git:git://github.com/maruTA-bis5/gitlab-webhook-event-emitter.git</connection>
 		<developerConnection>scm:git:git@github.com:maruTA-bis5/gitlab-webhook-event-emitter.git</developerConnection>
-		<tag>gitlab-webhook-event-emitter-v0.1.0</tag>
+		<tag>HEAD</tag>
 	</scm>
 	<developers>
 		<developer>
