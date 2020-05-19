@@ -137,7 +137,7 @@
 				<artifactId>maven-release-plugin</artifactId>
 				<configuration>
 					<tagNameFormat>webhook-event-emitter-tomcat-v@{project.version}</tagNameFormat>
-					<releaseProfile>release</releaseProfile>
+					<releaseProfiles>release</releaseProfiles>
 				</configuration>
 			</plugin>
 		</plugins>

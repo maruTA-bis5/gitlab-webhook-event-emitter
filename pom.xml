@@ -93,7 +93,7 @@
 				<artifactId>maven-release-plugin</artifactId>
 				<configuration>
 					<tagNameFormat>gitlab-webhook-event-emitter-v@{project.version}</tagNameFormat>
-					<releaseProfile>release</releaseProfile>
+					<releaseProfiles>release</releaseProfiles>
 				</configuration>
 			</plugin>
 		</plugins>
