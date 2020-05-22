@@ -16,7 +16,6 @@ import org.gitlab4j.api.GitLabApiException;
 import org.gitlab4j.api.webhook.WebHookManager;
 
 @Path("/webhook")
-@RequestScoped
 public class GitLabWebhookResource {
 
     @Inject
