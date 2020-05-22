@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>net.bis5.gitlab</groupId>
     <artifactId>gitlab-webhook-event-emitter-tomcat</artifactId>
-    <version>0.1.2</version>
+    <version>0.1.3-SNAPSHOT</version>
     <packaging>jar</packaging>
 	<name>GitLab Webhook Event Emitter::Embed Tomcat App</name>
 	<url>https://github.com/maruTA-bis5/gitlab-webhook-event-emitter</url>
@@ -19,7 +19,7 @@
 		<url>https://github.com/maruTA-bis5/gitlab-webhook-event-emitter.git</url>
 		<connection>scm:git:git://github.com/maruTA-bis5/gitlab-webhook-event-emitter.git</connection>
 		<developerConnection>scm:git:git@github.com:maruTA-bis5/gitlab-webhook-event-emitter.git</developerConnection>
-		<tag>webhook-event-emitter-tomcat-v0.1.2</tag>
+		<tag>webhook-event-emitter-tomcat-v0.1.1</tag>
 	</scm>
 	<developers>
 		<developer>
